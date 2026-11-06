@@ -58,8 +58,17 @@ Theory: SMD LEDs emit light planar to the PCB surface. A THT 5mm dome LED focuse
 Rectification: Reassigned the schematic symbol footprint to LED_THT:LED_D5.0mm while keeping the electrical current-limiting network identical (R2 = 330ohms).
 
 ### Outputs: 
-<img width="1600" height="836" alt="image" src="https://github.com/user-attachments/assets/6b74d7ca-12c8-4b09-a0a9-26bffb940e79" />
-<img width="1600" height="840" alt="image" src="https://github.com/user-attachments/assets/4b392055-466f-4e54-867d-25e56a4546c4" />
-<img width="1600" height="781" alt="image" src="https://github.com/user-attachments/assets/a5764817-86b6-4300-ad87-8479d6f9614f" />
+
+<img width="1600" height="745" alt="WhatsApp Image 2026-11-06 at 11 16 37 (1)" src="https://github.com/user-attachments/assets/63c064c9-0ec6-40af-8d2b-c2bb9cc100cd" />
+
+<img width="1600" height="784" alt="WhatsApp Image 2026-11-06 at 11 49 15" src="https://github.com/user-attachments/assets/cc214352-1814-4cd1-8b73-56b50a9829fc" />
+
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/0f3bd385-16ca-4459-88e2-312401ae60b4" />
+
+<img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/9e3b778e-4fdc-4513-824b-808e0ad8c601" />
+
+
+ERC AND DRC Checks done!
+
 
 
